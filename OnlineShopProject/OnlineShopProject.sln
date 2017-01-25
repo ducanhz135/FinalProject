@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineShopProject", "OnlineShopProject\OnlineShopProject.csproj", "{5EA38532-FDC5-49E1-8D63-CDD22F3CB0EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{C346E6B6-15AF-42BB-9E61-0B8851723362}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticResources", "StaticResources\StaticResources.csproj", "{55899D7E-F65D-4873-BDEA-98424E8EC82A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EA38532-FDC5-49E1-8D63-CDD22F3CB0EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EA38532-FDC5-49E1-8D63-CDD22F3CB0EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EA38532-FDC5-49E1-8D63-CDD22F3CB0EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EA38532-FDC5-49E1-8D63-CDD22F3CB0EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C346E6B6-15AF-42BB-9E61-0B8851723362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C346E6B6-15AF-42BB-9E61-0B8851723362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C346E6B6-15AF-42BB-9E61-0B8851723362}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C346E6B6-15AF-42BB-9E61-0B8851723362}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55899D7E-F65D-4873-BDEA-98424E8EC82A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55899D7E-F65D-4873-BDEA-98424E8EC82A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55899D7E-F65D-4873-BDEA-98424E8EC82A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55899D7E-F65D-4873-BDEA-98424E8EC82A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
